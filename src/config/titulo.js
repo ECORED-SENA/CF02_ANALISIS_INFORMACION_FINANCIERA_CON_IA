@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Análisis financiero y revelación de hechos económicos con inteligencia artificial (IA)'
