@@ -251,14 +251,145 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Agente inteligente',
+      significado:
+        'herramienta o sistema de IA configurado para ejecutar tareas específicas, como revisar pagos, clasificar gastos, detectar alertas o analizar cartera.',
+    },
+    {
+      termino: 'Alerta financiera',
+      significado:
+        'señal preliminar que indica una posible variación, inconsistencia, riesgo o situación que requiere revisión documental y técnica.',
+    },
+    {
+      termino: 'Análisis financiero',
+      significado:
+        'proceso mediante el cual se revisan cifras, indicadores, variaciones y estados financieros para interpretar la situación económica de una entidad.',
+    },
+    {
+      termino: 'Aplicativo contable',
+      significado:
+        'herramienta tecnológica utilizada para registrar, procesar, consultar y generar información contable y financiera.',
+    },
+    {
+      termino: 'Dato financiero',
+      significado:
+        'información numérica o descriptiva relacionada con ingresos, costos, gastos, activos, pasivos, patrimonio, pagos, cobros o inversiones.',
+    },
+    {
+      termino: 'Estado financiero',
+      significado:
+        'informe estructurado que presenta la situación financiera, los resultados, los cambios patrimoniales o los flujos de efectivo de una entidad.',
+    },
+    {
+      termino: 'Hecho económico',
+      significado:
+        'operación, transacción o situación que afecta la información financiera de una organización y debe ser reconocida, medida, presentada o revelada.',
+    },
+    {
+      termino: 'Indicador financiero',
+      significado:
+        'relación entre cifras financieras que permite analizar liquidez, endeudamiento, rentabilidad, rotación o capacidad de pago.',
+    },
+    {
+      termino: 'Inteligencia artificial',
+      significado:
+        'tecnología que permite procesar datos, identificar patrones, generar respuestas y apoyar tareas de análisis, clasificación, comparación o interpretación.',
+    },
+    {
+      termino: 'Prompt financiero',
+      significado:
+        'instrucción formulada a una herramienta de IA para analizar información financiera, calcular variaciones, interpretar indicadores o generar hallazgos preliminares.',
+    },
+    {
+      termino: 'Ratio financiero',
+      significado:
+        'indicador calculado a partir de cifras de los estados financieros para evaluar aspectos como liquidez, endeudamiento, rentabilidad o eficiencia.',
+    },
+    {
+      termino: 'Revelación financiera',
+      significado:
+        'presentación explicativa de hechos económicos, riesgos, restricciones, beneficios u observaciones relevantes para comprender la información financiera.',
+    },
+    {
+      termino: 'Revisión cruzada',
+      significado:
+        'comparación entre diferentes fuentes de información, como facturas, extractos, auxiliares, comprobantes y estados financieros, para validar un resultado.',
+    },
+    {
+      termino: 'Riesgo financiero',
+      significado:
+        'posibilidad de que una situación afecte la liquidez, rentabilidad, endeudamiento, cumplimiento o estabilidad económica de una entidad.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'capacidad de reconstruir el proceso seguido para obtener un resultado, incluyendo fuente de datos, prompt, respuesta, soportes y validación realizada.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Archivo General de la Nación. (s. f.). Programa de Gestión Documental (PGD).',
+      link: 'https://www.archivogeneral.gov.co/transparencia/gestion-informacion-publica/Programa-de-Gestion-Documental-PGD',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1990, 13 de diciembre). Ley 43 de 1990. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=66148',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1995, 20 de diciembre). Ley 222 de 1995. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=6739',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (1999, 18 de agosto). Ley 527 de 1999. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=4276',
+    },
+    {
+      referencia:
+        'Congreso de la República de Colombia. (2009, 13 de julio). Ley 1314 de 2009. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=36833',
+    },
+    {
+      referencia:
+        'Departamento Nacional de Planeación. (2025, 27 de mayo). CONPES 4144: la hoja de ruta de Colombia en inteligencia artificial ante los retos actuales y la transformación futura.',
+      link: 'https://www.dnp.gov.co/publicaciones/Planeacion/Paginas/conpes-4144-hoja-de-ruta-colombia-inteligencia-artificial-retos-actuales-transformacion-futura.aspx',
+    },
+    {
+      referencia: 'IFRS Foundation. (s. f.). About the IFRS Foundation.',
+      link: 'https://www.ifrs.org/about-us/who-we-are/',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2019). Modelo de requisitos para la gestión de documentos electrónicos de archivos.',
+      link: 'https://www.mintic.gov.co/portal/715/w3-article-135930.html',
+    },
+    {
+      referencia:
+        'National Institute of Standards and Technology. (2023). Artificial Intelligence Risk Management Framework (AI RMF 1.0).',
+      link: 'https://doi.org/10.6028/NIST.AI.100-1',
+    },
+    {
+      referencia:
+        'Organisation for Economic Co-operation and Development. (2024). AI principles.',
+      link: 'https://www.oecd.org/en/topics/sub-issues/ai-principles.html',
+    },
+    {
+      referencia:
+        'Presidencia de la República de Colombia. (2015, 14 de diciembre). Decreto 2420 de 2015. Función Pública.',
+      link: 'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=76745',
+    },
+    {
+      referencia:
+        'Superintendencia Financiera de Colombia. (2019, 10 de octubre). Régimen sancionatorio.',
+      link: 'https://www.superfinanciera.gov.co/publicaciones/11168/normativaproteccion-al-consumidor-financierosobre-el-regimen-especifico-de-proteccion-al-consumidor-financieroregimen-de-proteccion-al-consumidor-financieroregimen-sancionatorio-11168/',
+    },
+    {
+      referencia:
+        'Unidad de Información y Análisis Financiero. (2020, 24 de marzo). Documento de preguntas frecuentes.',
+      link: 'https://www.uiaf.gov.co/9-1-Publicaciones',
     },
   ],
   creditos: [
@@ -267,13 +398,9 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06 - Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Olga Constanza Bermúdez',
-          cargo: 'Responsable de línea de producción Huila',
-          centro: 'Dirección General',
         },
       ],
     },
@@ -281,9 +408,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Leonardo Camacho Acevedo',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Alba Mireya Orjuela Toro',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Cristancho Cubillos',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Angelica Gómez Morales',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paula Marcela Vidal Quintero',
+          cargo: 'Evaluadora instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -291,20 +449,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Cielo Damaris Angulo Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'María Carolina Tamayo López',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos',
+          cargo: 'Locución',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -314,13 +502,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
