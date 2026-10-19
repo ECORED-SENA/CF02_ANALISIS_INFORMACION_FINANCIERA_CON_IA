@@ -62,7 +62,7 @@
       p.mb-0 SARLAFT, SAGRILAFT y SARO permiten ubicar el análisis con IA dentro de un marco de prevención, control, validación profesional y cumplimiento normativo.
       Separador
       #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 4.2 dentificación de riesgos financieros a partir de datos y documentos
+        h2 4.2 Identificación de riesgos financieros a partir de datos y documentos
       p La identificación de riesgos permite reconocer situaciones que pueden afectar la liquidez, el endeudamiento, la rentabilidad, el cumplimiento o la confiabilidad de los registros.
       p.mb-5 Los datos y documentos aportan información complementaria para identificar riesgos, generar alertas preliminares y establecer los soportes necesarios para su validación:
       .bg-3
