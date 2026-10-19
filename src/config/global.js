@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Análisis financiero y revelación de hechos económicos con inteligencia artificial (IA)',
     Description:
-      'El análisis financiero y la revelación de hechos económicos con apoyo de inteligencia artificial permite procesar, validar e interpretar información contable y financiera conforme a estándares técnicos y normativos. A partir del uso de sistemas integrados de información financiera, aplicativos contables, agentes inteligentes, ratios, revisiones cruzadas, gestión de riesgos y herramientas de visualización de datos, se fortalece la capacidad de generar informes financieros claros, verificables, éticos y útiles para la toma de decisiones.',
+      'El análisis financiero y la revelación de hechos económicos con apoyo de inteligencia artificial permiten procesar, validar e interpretar información contable y financiera conforme a estándares técnicos y normativos. A partir del uso de sistemas integrados de información financiera, aplicativos contables, agentes inteligentes, ratios, revisiones cruzadas, gestión de riesgos y herramientas de visualización de datos, se fortalece la capacidad de generar informes financieros claros, verificables, éticos y útiles para la toma de decisiones.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
@@ -296,7 +296,7 @@ export default {
         'tecnología que permite procesar datos, identificar patrones, generar respuestas y apoyar tareas de análisis, clasificación, comparación o interpretación.',
     },
     {
-      termino: 'Prompt financiero',
+      termino: '<i>Prompt</i> financiero',
       significado:
         'instrucción formulada a una herramienta de IA para analizar información financiera, calcular variaciones, interpretar indicadores o generar hallazgos preliminares.',
     },

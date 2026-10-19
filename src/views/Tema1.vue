@@ -209,7 +209,7 @@
         .col-xl-auto(data-aos="fade-left")
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/t1/img8.png", alt="" style="width: 500px").m-auto
-      p.mb-5 Para facilitar la comprensión de tema, se presenta el siguiente ejemplo:
+      p.mb-5 Para facilitar la comprensión del tema, se presenta el siguiente ejemplo:
       .caja-1(data-aos="zoom-in").mb-5
         .row.align-items-center
           .col-xl-auto
@@ -1050,7 +1050,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[b Ejemplo:] práctico: recaudo de una factura de venta. 
+                  | #[b Ejemplo:] recaudo de una factura de venta. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
@@ -1108,7 +1108,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | #[b Ejemplo práctico:] control de clientes con pagos pendientes. 
+                  | #[b Ejemplo:] control de clientes con pagos pendientes. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
